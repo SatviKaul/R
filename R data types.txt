@@ -1,0 +1,30 @@
+> V=TRUE
+> print(class(V))
+[1] "logical"
+> v<-12.3
+> print(class(v))
+[1] "numeric"
+> v<-12L
+> print(class(v))
+[1] "integer"
+V=TRUE
+> print(class(V))
+[1] "logical"
+> v<-12.3
+> print(class(v))
+[1] "numeric"
+> v<-12L
+> print(class(v))
+[1] "integer"
+> v<-12+3i
+> print(class(v))
+[1] "complex"
+> v<-"hi"
+> print(class(v))
+[1] "character"
+> v=charToRaw("Abcd")
+> print(class(v))
+[1] "raw"
+> print(class(v))
+[1] "raw"
+> 
