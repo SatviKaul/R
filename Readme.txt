@@ -1,1 +1,1 @@
-This repository contains basic R programs describing basic data types
+This repository contains basic R programs describing R data types
