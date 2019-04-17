@@ -1,1 +1,10 @@
-This repository contains basic R programs describing R data types, String functions,vectors, Matrices, Conditions, creating a dataframe & pie graph, In-built and user defined functions, loops and operators and how to work with XML and CSV files in R.
+This repository contains basic R programs describing: 
+R data types, 
+String functions,
+Vectors, 
+Matrices, 
+Conditions, 
+Creating a dataframe & pie graph, 
+In-built and user defined functions, 
+Loops and operators,
+And how to work with XML and CSV files in R.
